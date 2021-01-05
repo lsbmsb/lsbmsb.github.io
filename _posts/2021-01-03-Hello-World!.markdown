@@ -3,6 +3,7 @@ layout: post
 title:  "Hello World!"
 date:   2021-01-03 14:45:00 +0530
 categories: jekyll update
+comments: true
 ---
 Hello you,
 
