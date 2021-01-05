@@ -1,1 +1,1 @@
-# lsbmsb.github.io
+Tech website powered by Jekyll.
